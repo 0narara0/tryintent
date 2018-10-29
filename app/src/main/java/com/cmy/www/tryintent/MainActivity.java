@@ -31,12 +31,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(intent1);
                 break;
             case R.id.button2:
-                intent1 = new Intent(this, Explicit2Activity.class);
-                startActivity(intent1);
+                intent2 = new Intent(this, Explicit2Activity.class);
+                startActivity(intent2);
                 break;
             case R.id.button3:
-                intent1 = new Intent(this, Explicit3Activity.class);
-                startActivity(intent1);
+                intent3 = new Intent(this, Explicit3Activity.class);
+                startActivity(intent3);
                 break;
         }
 
