@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tryintent</string>
+    <string name="Intent">Intent</string>
+    <string name="explicitsimple">Explicit(Simple)</string>
+    <string name="explicitresult">Explicit(Result)</string>
+    <string name="explicitlistview">Explicitl(ListView)</string>
+</resources>
